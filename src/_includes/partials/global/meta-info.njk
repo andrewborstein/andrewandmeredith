@@ -19,10 +19,6 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ currentUrl }}" />
 
-{% if site.authorHandle %}
-  <meta name="twitter:creator" content="@{{ site.authorHandle | replace('@', '') }}" />
-{% endif %}
-
 {% if metaDesc %}
   <meta name="description" content="{{ metaDesc }}" />
   <meta name="twitter:description" content="{{ metaDesc }}" />
