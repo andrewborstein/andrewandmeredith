@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: Test
+title: Test Page
 ---
 ## Will You Be Joining Us?
 
