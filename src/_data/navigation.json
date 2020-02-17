@@ -6,15 +6,15 @@
     },
     {
       "text": "Plan Your Trip",
-      "url": "/plan-your-trip"
+      "url": "pages/plan-your-trip/"
     },
     {
       "text": "The Big Day",
-      "url": "/getting-down"
+      "url": "pages/the-big-day/"
     },
     {
       "text": "Everything Else",
-      "url": "everything-else"
+      "url": "pages/everything-else/"
     }
   ]
 }
