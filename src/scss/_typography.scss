@@ -9,18 +9,22 @@
     url('/fonts/lora-v13-latin-700.woff') format('woff');
 }
 
+/* https://fonts.google.com/specimen/Playfair+Display?selection.family=Playfair+Display */
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap');
+
 body {
   // Strip the unit off the size ratio to generate a line height
   $line-height: get-size(600);
   line-height: $line-height / ($line-height * 0 + 1);
 
-  @include apply-utility('font', 'base');
+  @include apply-utility('font', 'playfair');
 }
 
 h1,
 h2,
 h3 {
-  @include apply-utility('font', 'serif');
+  @include apply-utility('font', 'montserrat');
 }
 
 h1 {
@@ -29,10 +33,16 @@ h1 {
 
 h2 {
   font-size: get-size(600);
+  @include apply-utility('weight', 'regular');
+  letter-spacing: 1px;
+  text-transform: uppercase;
 }
 
 h3 {
   font-size: get-size(500);
+  @include apply-utility('weight', 'regular');
+  letter-spacing: 1px;
+  text-transform: uppercase;
 }
 
 @include media-query('md') {

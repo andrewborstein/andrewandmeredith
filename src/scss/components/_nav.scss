@@ -1,4 +1,7 @@
 .nav {
+  @include apply-utility('font', 'montserrat');
+  text-transform: uppercase;
+
   &__list {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
@@ -20,7 +23,8 @@
     a {
       color: currentColor;
 
-      @include apply-utility('weight', 'mid');
+      @include apply-utility('weight', 'light');
+      letter-spacing: 1px;
 
       &:not(:hover) {
         text-decoration: none;
