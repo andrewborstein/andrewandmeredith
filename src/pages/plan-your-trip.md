@@ -25,7 +25,7 @@ For our guests' convenience, we have secured 3 different hotel blocks near our w
 
 * [The Charles Hotel](https://goo.gl/maps/h4Y6Hsb5WNZ6CJQ56) - $309 | Harvard Square (0.25 mi)
 * [Le Meridien](https://goo.gl/maps/Bs52XamKjugYJxyU6) - $209 | Central Square (1 mi)
-* [The Marriott](https://goo.gl/maps/KJxcu23ywJZvkWKc7) - $179 | Kendall Square (2 mi)
+* [The Marriott](https://goo.gl/maps/KJxcu23ywJZvkWKc7) - $179-$199 | Kendall Square (2 mi)
 
 ### Airbnb
 
