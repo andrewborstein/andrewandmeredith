@@ -1,33 +1,20 @@
 {
   "items": [
     {
-      "text": "Home",
-      "url": "/",
-      "external": false
-    },
-    {
       "text": "RSVP",
       "url": "rsvp"
     },
     {
-      "text": "Accommodations",
-      "url": "accommodations"
+      "text": "Getting Here",
+      "url": "/getting-here"
     },
     {
-      "text": "Event Details",
-      "url": "/details"
+      "text": "The Big Day",
+      "url": "/getting-down"
     },
     {
-      "text": "Registry",
-      "url": "/registry"
+      "text": "Everything Else",
+      "url": "everything-else"
     },
-    {
-      "text": "Local Activities",
-      "url": "local-activities"
-    },
-    {
-      "text": "Contact",
-      "url": "contact"
-    }
   ]
 }
