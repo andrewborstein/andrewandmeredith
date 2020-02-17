@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Plan Your Trip
+permalink: plan-your-trip
 ---
 ## How to Get Here
 
