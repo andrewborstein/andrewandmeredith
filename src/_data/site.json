@@ -1,10 +1,10 @@
 {
-  "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorName": "Andy Bell",
+  "showThemeCredit": false,
+  "name": "Andrew & Meredith | Boston 2020",
+  "shortDesc": "On July 18, 2020, Andrew Borstein and Meredith Davies are getting married at Alden Harlow in Boston, MA. It will be awesome.",
+  "url": "https://andrewandmeredith.com",
+  "authorEmail": "hi@andrewandmeredith.com",
+  "authorName": "Andrew & Meredith",
   "enableThirdPartyComments": false,
   "maxPostsPerPage": 5,
   "faviconPath": "/images/favicon.ico"
