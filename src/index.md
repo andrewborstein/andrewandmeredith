@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Let's Party!
-postsHeading: Latest posts
+postsHeading: Latest updates
 archiveButtonText: See all posts
 socialImage: images/bike-trip-heart-web.jpg
 ---

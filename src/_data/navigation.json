@@ -5,8 +5,8 @@
       "url": "rsvp"
     },
     {
-      "text": "Getting Here",
-      "url": "/getting-here"
+      "text": "Plan Your Trip",
+      "url": "/plan-your-trip"
     },
     {
       "text": "The Big Day",
@@ -15,6 +15,6 @@
     {
       "text": "Everything Else",
       "url": "everything-else"
-    },
+    }
   ]
 }
