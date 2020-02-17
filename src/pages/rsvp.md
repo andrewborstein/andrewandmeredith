@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: RSVP
-permalink: /pages/rsvp/
+permalink: ''
 ---
 ## Will You Be Joining Us?
 
