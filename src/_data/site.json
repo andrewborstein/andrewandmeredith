@@ -1,11 +1,11 @@
 {
   "showThemeCredit": false,
   "name": "Andrew & Meredith",
-  "shortDesc": "On July 18, 2020, Andrew and Meredith are getting married in Boston, MA. It will be awesome.",
-  "url": "https://andrewandmeredith.com",
-  "authorEmail": "hi@andrewandmeredith.com",
+  "shortDesc": "Email us hello *at* andrewandmeredith.com",
+  "url": "https://andrew-andrew-meredith-11ty.netlify.com/",
+  "authorEmail": "hello@andrewandmeredith.com",
   "authorName": "Andrew & Meredith",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
-  "faviconPath": "/images/favicon.ico"
+  "faviconPath": "/images/favicon.ico",
+  "maxPostsPerPage": 5
 }
