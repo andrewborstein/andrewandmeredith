@@ -20,11 +20,25 @@ First, make sure you have access to a car and it has gas in it. Then enter "Bost
 
 ### Hotels
 
-For our guests' convenience, we have secured 3 different hotel blocks near our wedding venue:
+For our guests' convenience, we have secured 3 different discounted hotel options near our wedding venue:
 
-* [The Charles Hotel](https://goo.gl/maps/h4Y6Hsb5WNZ6CJQ56) - $309 | Harvard Square (0.25 mi)
-* [Le Meridien](https://goo.gl/maps/Bs52XamKjugYJxyU6) - $209 | Central Square (1 mi)
-* [The Marriott](https://goo.gl/maps/KJxcu23ywJZvkWKc7) - $179-$199 | Kendall Square (2 mi)
+[The Charles Hotel](https://goo.gl/maps/h4Y6Hsb5WNZ6CJQ56) 
+
+* **Rate**: $319 
+* **Location**: Harvard Square (0.25 mi from venue) 
+* **Booking**: Reference "Davies/Borstein Wedding Room Block" by phone or **book Le Meriden online using this link** by **\[date]**
+
+[Le Meridien](https://goo.gl/maps/Bs52XamKjugYJxyU6) 
+
+* **Rate**: $209 
+* **Location**: Central Square (1 mi from venue) 
+* **Booking**: Reference "Davies/Borstein Wedding Room Block" by phone or **book Le Meriden online using this link** by June 29
+
+[The Marriott](https://goo.gl/maps/KJxcu23ywJZvkWKc7) 
+
+* **Rate**: $179 – 199 
+* **Location**: Kendall Square (2 mi from venue) 
+* **Booking**: Call [1-800-543-4300](tel:18005434300) and ask for the “Davies/Borstein Wedding Room Block” or [book The Marriott online using this link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1582060556263&key=GRP&app=resvlink) by June 26
 
 ### Airbnb
 
