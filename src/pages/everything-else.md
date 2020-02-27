@@ -18,4 +18,6 @@ You can also [view the map full-screen](https://www.google.com/maps/d/viewer?mid
 
 You can also easily save this to your personal Google account, so you can easily find it while you're logged into the Google Maps app.
 
-![Screenshot demonstrating how to save the custom Google map to your personal Google account](images/map.png "Save the Map to Your Google Account")
+![Screenshot demonstrating how to save the custom Google map to your personal Google account](images/map.png "Save the map to your Google account")
+
+![Screen capture demonstrating how to locate the saved custom Google map in your personal Google account](images/save-wedding-map-to-google-account.gif "Find the saved map in the Google Maps app")
