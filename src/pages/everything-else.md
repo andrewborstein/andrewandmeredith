@@ -4,12 +4,20 @@ title: Everything Else
 ---
 ## Gifts
 
-Your presence is enough! And if you wan't to do more than that, you can contribute to our Honeymoon Fund or donate to one of these find causes: 
+Your presence is gift enough! Seriously. 
 
-- Cause 1
-- Cause 2
-- Cause 3
+All we want is for you to spend a Saturday night in Boston with us — and come ready to eat delicious food, drink amazing cocktails, and dance your faces off. Deal? Deal.
 
 ## Points of Interest
 
+We made you this handy map! It's got all the major locations related to our wedding weekend, so you can see them all in one place. And we've also added recommendations for local places to eat, attractions to visit, and other things you might want to do while you're in town.
+
+You can also [view the map full-screen](https://www.google.com/maps/d/viewer?mid=1YViXbcdejBdYPMC9Q-rSpbtDueOqHOS2&hl=en&usp=sharing).
+
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1YViXbcdejBdYPMC9Q-rSpbtDueOqHOS2" width="792" height="480"></iframe>
+
+You can also easily save this to your personal Google account, so you can easily find it while you're logged into the Google Maps app.
+
+![Screenshot demonstrating how to save the custom Google map to your personal Google account](images/map.png "Save the map to your Google account")
+
+![Screen capture demonstrating how to locate the saved custom Google map in your personal Google account](images/save-wedding-map-to-google-account.gif "Find the saved map in the Google Maps app")
