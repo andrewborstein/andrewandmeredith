@@ -20,7 +20,7 @@ First, make sure you have access to a car and it has gas in it. Then enter "Bost
 
 ### Hotels
 
-For our guests' convenience, we have secured 3 different discounted hotel options near our wedding venue, under the “Davies/Borstein Wedding Room Block”:
+For our guests' convenience, we have secured 3 different discounted hotel options near our wedding venue, under the “Davies/Borstein Wedding Room Block”.
 
 [The Charles Hotel](https://goo.gl/maps/h4Y6Hsb5WNZ6CJQ56) 
 
