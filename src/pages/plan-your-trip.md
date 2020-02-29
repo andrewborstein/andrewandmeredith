@@ -24,21 +24,21 @@ For our guests' convenience, we have secured 3 different discounted hotel option
 
 [The Charles Hotel](https://goo.gl/maps/h4Y6Hsb5WNZ6CJQ56) 
 
-* **Rate**: $319 
+* **Rate**: $309 
 * **Location**: Harvard Square (0.25 mi from venue) 
-* **Booking**: Call [617-864-1200](tel:6178641200) or book The Charles Hotel online using this link by **\[date]**
+* **Booking**: Call [617-864-1200](tel:6178641200) or book The Charles Hotel online by June 19
 
 [Le Meridien](https://goo.gl/maps/Bs52XamKjugYJxyU6) 
 
 * **Rate**: $209 
 * **Location**: Central Square (1 mi from venue) 
-* **Booking**: Call [617-577-0200](tel:6175770200) or [book Le Meriden online using this link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1582736236051&key=GRP&app=resvlink) by June 29
+* **Booking**: Call [617-577-0200](tel:6175770200) or [book Le Meriden online](https://www.marriott.com/event-reservations/reservation-link.mi?id=1582736236051&key=GRP&app=resvlink) by June 29
 
 [The Marriott](https://goo.gl/maps/KJxcu23ywJZvkWKc7) 
 
 * **Rate**: $179 – 199 
 * **Location**: Kendall Square (2 mi from venue) 
-* **Booking**: Call [617-494-6600](tel:6174946600) or [book The Marriott online using this link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1582060556263&key=GRP&app=resvlink) by June 26
+* **Booking**: Call [617-494-6600](tel:6174946600) or [book The Marriott online](https://www.marriott.com/event-reservations/reservation-link.mi?id=1582060556263&key=GRP&app=resvlink) by June 26
 
 ### Airbnb
 
