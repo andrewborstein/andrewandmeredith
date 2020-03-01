@@ -3,8 +3,8 @@ layout: layouts/page.njk
 title: The Big Day
 introSummary: >-
   Imagine an awesome party, at a lively, local spot, with amazing food and
-  drinks, where the two hosts just happen to be getting married. Come join us on
-  July 18 when we make that day dream a reality!
+  drinks, where the two hosts just happen to be getting married. Then imagine
+  yourself getting to Boston on July 18 so we can make that daydream a reality.
 ---
 ## Location
 
