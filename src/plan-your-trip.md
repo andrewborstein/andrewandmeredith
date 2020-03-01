@@ -1,6 +1,8 @@
 ---
 layout: layouts/page.njk
 title: Plan Your Trip
+introSummary: >-
+  You need a plan, Stan!
 ---
 ## How to Get Here
 

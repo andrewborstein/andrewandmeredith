@@ -1,6 +1,8 @@
 ---
 layout: layouts/page.njk
 title: Everything Else
+introSummary: >-
+  Anything we missed? Find it here.
 ---
 ## Gifts
 
