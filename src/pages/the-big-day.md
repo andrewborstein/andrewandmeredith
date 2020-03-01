@@ -1,12 +1,13 @@
 ---
 layout: layouts/page.njk
 title: The Big Day
+introSummary: 'Testing one, two. [Alden & Harlow](http://www.aldenharlow.com)'
 ---
 ## Location
 
 Imagine for a second that you're at an awesome party, at a lively, local spot, with amazing food and drinks, where the two hosts just happen to be getting married... well imagine no more! Because that's what you're in store for on July 18th in Boston. 
 
-The **entire event** — ceremony, cocktails, dinner, and dancing — will be held at one of our favorite restaurants in Boston, [Alden & Harlow](http://www.aldenharlow.com/). It's an intimate and cozy spot with a whole lot of character. And lucky for us, we'll have the whole place to ourselves. 
+The **entire event** — ceremony, cocktails, dinner, and dancing — will be held at one of our favorite restaurants in Boston, [Alden & Harlow](http://www.aldenharlow.com). It's an intimate and cozy spot with a whole lot of character. And lucky for us, we'll have the whole place to ourselves. 
 
 <figure>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2947.5428998188754!2d-71.12359168454327!3d42.373579879186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37768306eba37%3A0xa3a498bf2ae4121d!2sAlden%20%26%20Harlow!5e0!3m2!1sen!2sus!4v1583016005899!5m2!1sen!2sus" width="792" height="446" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
