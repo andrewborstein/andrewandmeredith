@@ -25,6 +25,7 @@ collections:
           - {label: "Post Feed Heading", name: "postsHeading", widget: "string", default: "Latest posts"}
           - {label: "Archive Link Text", name: "archiveButtonText", widget: "string", default: "See all posts"}
           - {label: "Social Image", name: "socialImage", widget: "image", required: false}
+          - {label: "Intro Summary", name: "introSummary", widget: "markdown", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
   - name: "generic_pages"
     label: "Generic Pages"
@@ -39,6 +40,7 @@ collections:
       - {label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false}
       - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
       - {label: "Social Image", name: "socialImage", widget: "image", required: false}
+      - {label: "Intro Summary", name: "introSummary", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "posts"
     label: "Posts"
@@ -54,6 +56,7 @@ collections:
       - {label: "Social Image", name: "socialImage", widget: "image", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list", allow_add: true}
+      - {label: "Intro Summary", name: "introSummary", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Globals"
     name: "globals"
