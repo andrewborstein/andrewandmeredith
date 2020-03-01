@@ -3,21 +3,24 @@
   text-transform: uppercase;
 
   &__list {
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    -ms-overflow-style: none;
+    // overflow-x: auto;
+    // -webkit-overflow-scrolling: touch;
+    // -ms-overflow-style: none;
 
-    &::-webkit-scrollbar {
-      display: none;
-    }
+    // &::-webkit-scrollbar {
+    //   display: none;
+    // }
 
-    > * + * {
-      margin-left: get-size(500);
-    }
+    // > * + * {
+    //   margin-left: get-size(500);
+    // }
+
+    flex-wrap: wrap;
   }
 
   &__item {
-    padding: get-size(300) 0;
+    margin-right: get-size(500);
+    padding: get-size(200) 0;
     flex-shrink: 0;
 
     a {
