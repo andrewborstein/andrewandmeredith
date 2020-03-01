@@ -1,11 +1,12 @@
 ---
 layout: layouts/page.njk
 title: The Big Day
-introSummary: 'Testing one, two. [Alden & Harlow](http://www.aldenharlow.com)'
+introSummary: >-
+  Imagine an awesome party, at a lively, local spot, with amazing food and
+  drinks, where the two hosts just happen to be getting married. Come join us on
+  July 18 when we make that day dream a reality!
 ---
 ## Location
-
-Imagine for a second that you're at an awesome party, at a lively, local spot, with amazing food and drinks, where the two hosts just happen to be getting married... well imagine no more! Because that's what you're in store for on July 18th in Boston. 
 
 The **entire event** — ceremony, cocktails, dinner, and dancing — will be held at one of our favorite restaurants in Boston, [Alden & Harlow](http://www.aldenharlow.com). It's an intimate and cozy spot with a whole lot of character. And lucky for us, we'll have the whole place to ourselves. 
 
@@ -40,30 +41,30 @@ If you need special food accommodations (e.g. the kids would prefer chicken nugg
 
 We'll be celebrating together from **6:00 PM to 12:00 AM**, and here's a rough idea of what to expect:
 
-### 6:00 PM - Arrival
+* **6:00 PM | Arrival**
 
-Guests arrive and give each other hearty hellos and hugs
+  Guests arrive and give each other hearty hellos and hugs
 
-### 6:30 PM - Ceremony
+* **6:30 PM | Ceremony**
 
-Andrew & Meredith say I do (and a few other cute things)
+  Andrew & Meredith say I do (and a few other cute things)
 
-### 7:00 PM - Cocktail Hour
+* **7:00 PM | Cocktail Hour**
 
-Everyone celebrates by mingling over some cocktails and appetizers
+  Everyone celebrates by mingling over some cocktails and appetizers
 
-### 8:00 PM - Dinner
+* **8:00 PM | Dinner**
 
-Mingling continues and dinner fare materializes, buffet style. Some lovely people will make lovely toasts. Maybe a ceremonial dance or two featuring the newlyweds. Who knows! 
+  Mingling continues and dinner fare materializes, buffet style. Some lovely people will make lovely toasts. Maybe a ceremonial dance or two featuring the newlyweds. Who knows! 
 
-### 9:00 PM - Dancing
+* **9:00 PM | Dancing**
 
-Partayyyyyy tiiiiiime. Let's dance. No cha-cha slide and no slow slongs (no offense). Only 100% party jams. Also a good time for a pee break. Don't forget to stop by the photo booth!
+  Partayyyyyy tiiiiiime. Let's dance. No cha-cha slide and no slow slongs (no offense). Only 100% party jams. Also a good time for a pee break. Don't forget to stop by the photo booth!
 
-### 11:00 PM - Wind Down
+* **11:00 PM | Wind Down**
 
-Late night snacks and dessert. Some bittersweet goodbyes. 
+  Late night snacks and dessert. Some bittersweet goodbyes. 
 
-### 12:00 AM - TBD
+* **12:00 AM | TBD**
 
-After the party it's the afterparty.
+  After the party it's the afterparty.
