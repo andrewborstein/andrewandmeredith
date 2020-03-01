@@ -46,7 +46,7 @@ const Post = ({ entry }) => (
     path="layouts/post.njk"
     context={({ title, introSummary, date, body }) => ({
       title,
-      introSummary: markdownFilter(introSummary),
+      introSummary: markdownFilter(introSummary || ''),
       date,
       content: markdownFilter(body || ''),
     })}
@@ -59,7 +59,7 @@ const Page = ({ entry }) => (
     path="layouts/page.njk"
     context={({ title, introSummary, body }) => ({
       title,
-      introSummary: markdownFilter(introSummary),
+      introSummary: markdownFilter(introSummary || ''),
       content: markdownFilter(body || ''),
     })}
   />
