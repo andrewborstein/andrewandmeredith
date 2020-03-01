@@ -21,8 +21,9 @@ const Home = ({ entry }) => (
   <Preview
     entry={entry}
     path="layouts/home.njk"
-    context={({ title, body, postsHeading, archiveButtonText }) => ({
+    context={({ title, introSummary, body, postsHeading, archiveButtonText }) => ({
       title,
+      introSummary: markdownFilter(introSummary),
       content: markdownFilter(body),
       postsHeading,
       archiveButtonText,
@@ -43,8 +44,9 @@ const Post = ({ entry }) => (
   <Preview
     entry={entry}
     path="layouts/post.njk"
-    context={({ title, date, body }) => ({
+    context={({ title, introSummary, date, body }) => ({
       title,
+      introSummary: markdownFilter(introSummary),
       date,
       content: markdownFilter(body || ''),
     })}
@@ -55,8 +57,9 @@ const Page = ({ entry }) => (
   <Preview
     entry={entry}
     path="layouts/page.njk"
-    context={({ title, body }) => ({
+    context={({ title, introSummary, body }) => ({
       title,
+      introSummary: markdownFilter(introSummary),
       content: markdownFilter(body || ''),
     })}
   />
