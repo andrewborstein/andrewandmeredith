@@ -29,9 +29,9 @@ collections:
           - {label: "Body", name: "body", widget: "markdown"}
   - name: "generic_pages"
     label: "Generic Pages"
-    folder: "src/pages"
+    folder: "src/"
     slug: "{{slug}}"
-    preview_path: "pages/{{slug}}"
+    preview_path: "{{slug}}"
     create: true
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/page.njk"}

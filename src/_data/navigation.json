@@ -2,19 +2,19 @@
   "items": [
     {
       "text": "RSVP",
-      "url": "/pages/rsvp/"
+      "url": "/rsvp/"
     },
     {
       "text": "Plan Your Trip",
-      "url": "/pages/plan-your-trip/"
+      "url": "/plan-your-trip/"
     },
     {
       "text": "The Big Day",
-      "url": "/pages/the-big-day/"
+      "url": "/the-big-day/"
     },
     {
       "text": "Everything Else",
-      "url": "/pages/everything-else/"
+      "url": "/everything-else/"
     }
   ]
 }
