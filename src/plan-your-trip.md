@@ -1,8 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Plan Your Trip
-introSummary: >-
-  You need a plan, Stan!
+introSummary: 'You need a plan, Stan!'
 ---
 ## How to Get Here
 
@@ -58,4 +57,4 @@ If you're feeling adventurous and thrifty, the MBTA subway is also a great optio
 
 ### Walking & Biking
 
-Boston is a relatively tiny city — it's easy to walk pretty much anywhere, and there are plenty of city bikes (and bike lines!) available, too.
+Boston is a relatively small city in terms of square mileage — it's easy to walk pretty much anywhere, and there are plenty of city bikes (and bike lanes!) available, too.
