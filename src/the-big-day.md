@@ -51,16 +51,18 @@ If you're driving in, we would recommend using the parking garage nearby. Trying
 
 ### Attire
 
-The ceremony and dinner will not be fully seated, so you will likely be standing more than you would at a typical wedding. It's probably not the right night for your highest stilettos. Wear something fun! If you're looking for a little more direction, we'd recommend a "fancy date night" type of outfit. Anything more formal than jeans and less formal than a tuxedo is perfect. Morphsuits are highly encouraged.
+The ceremony and dinner will not be fully seated, so you will likely be standing more than you would at a typical wedding. It's probably not the right night for your highest stilettos. Wear something fun! 
+
+If you're looking for a little more direction, we'd recommend a "fancy date night" type of outfit. Anything more formal than jeans and less formal than a tuxedo is perfect. Morphsuits are highly encouraged.
 
 ### Menu
 
-We haven't finalized a menu yet...but we promise it will taste good!  We hope that this will be the best food and drinks you have **ever** had at a wedding. Like the type you might have a few times a year on special occasions. 
+We haven't finalized a menu yet... but we promise it will taste good!  We hope that this will be the best food and drinks you have **ever** had at a wedding. Like the type you might have a few times a year on special occasions. 
 
 There should be something for everyone — vegetarians and vegans, meat lovers, seafood fanatics, gluten no-thank-you-ers. And if need be, the wonderfully creative kitchen staff can make you something on the spot. If you're concerned about dietary restrictions, please let us know!  
 
 ## Kids
 
-We love you and your offspring, and you are absolutely welcome to bring kids to the wedding! It seems to us like there isn't a ton of space in this setting for having fun if you're a kid, but maybe it's super fun for kids to go to wedding? We don't know because we are child-less and bewildered/amazed by parenting. We are happy to answer any specific questions you may have that would help you decide if you will bring your kids or not. 
+We love you and your offspring, and you are absolutely welcome to bring kids to the wedding! It seems to us like there isn't a ton of space in this setting for having fun if you're a kid, but maybe it's super fun for kids to go to a wedding? We don't know because we are child-less and bewildered/amazed by parenting. We are happy to answer any specific questions you may have that would help you decide if you will bring your kids or not. 
 
 If you need special food accommodations (e.g. the kids would prefer chicken nuggets to chicken torchon), Alden & Harlow is prepared and happy to help.
