@@ -18,12 +18,10 @@
 <meta property="og:title" content="{{ pageTitle }}" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ currentUrl }}" />
+<meta name="description" content="{{ pageDesc }}" />
+<meta name="twitter:description" content="{{ pageDesc }}" />
+<meta property="og:description" content="{{ pageDesc }}" />
 
-{% if metaDesc %}
-  <meta name="description" content="{{ metaDesc }}" />
-  <meta name="twitter:description" content="{{ metaDesc }}" />
-  <meta property="og:description" content="{{ metaDesc }}" />
-{% endif %}
 
 {% if socialImage %}  
   <meta property="og:image" content="{{ socialImage }}" />
