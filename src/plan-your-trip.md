@@ -27,7 +27,7 @@ For our guests' convenience, we have secured 3 different discounted hotel option
 
 * **Rate**: $309 
 * **Location**: Harvard Square (0.25 mi from venue) 
-* **Booking**: Call [617-864-1200](tel:6178641200) or book The Charles Hotel online by June 19
+* **Booking**: Call [617-864-1200](tel:6178641200) or [book The Charles Hotel online](https://be.synxis.com/?adult=2&arrive=2020-07-17&chain=10237&child=0&configcode=BOSCH&currency=USD&depart=2020-07-19&group=DB2020&hotel=27199&level=hotel&locale=en-US&rooms=1&themecode=BOSCH&trifecta=1) by June 19
 
 [Le Meridien](https://goo.gl/maps/Bs52XamKjugYJxyU6) 
 
