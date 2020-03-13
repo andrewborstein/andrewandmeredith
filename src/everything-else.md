@@ -1,9 +1,16 @@
 ---
 layout: layouts/page.njk
 title: Everything Else
-introSummary: >-
-  Anything we missed? Find it here.
+introSummary: Anything we missed? Find it here.
 ---
+## Rehearsal Dinner
+
+Add more content here...
+
+## Brunch
+
+Add more content here...
+
 ## Gifts
 
 Your presence is gift enough! Seriously. 
