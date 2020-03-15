@@ -39,4 +39,4 @@ You can also [view the map full-screen](https://www.google.com/maps/d/viewer?mid
 And if you want some other ideas, here a few hand-picked lists:
 * **Thrillist**: [Actually Cool Things to Do In Boston](https://www.thrillist.com/lifestyle/boston/things-to-do-in-boston)
 * **NYTimes**: [36 Hours in Boston](https://www.nytimes.com/2015/09/20/travel/what-to-do-in-36-hours-in-boston.html)
-* **TimeOut**: [50 Best Things to Do in Boston](https://www.timeout.com/boston/things-to-do/50-best-things-to-do-in-boston
+* **TimeOut**: [50 Best Things to Do in Boston](https://www.timeout.com/boston/things-to-do/50-best-things-to-do-in-boston)
