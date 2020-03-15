@@ -1,24 +1,45 @@
 .nav {
-  @include apply-utility('font', 'montserrat');
-  text-transform: uppercase;
+  // font-size: get-size(500);
 
   &__list {
     flex-wrap: wrap;
   }
 
   &__item {
-    margin-right: get-size(500);
-    padding: get-size(200) 0;
     flex-shrink: 0;
+    margin-right: get-size(400);
 
     a {
       color: currentColor;
+      display: inline-block;
+      line-height: 2;
+      position: relative;
+      text-decoration: none;
+      word-break: break-word;
 
       @include apply-utility('weight', 'light');
-      letter-spacing: 1px;
+    }
 
-      &:not(:hover) {
-        text-decoration: none;
+    &--cta {
+      background: var(--color-text);
+      letter-spacing: 2px;
+      margin-top: get-size(300);
+      text-align: center;
+      width: 100%;
+      
+      @include media-query('md') {
+        margin-left: get-size(300);
+        margin-top: 0;
+        text-align: left;
+        width: auto;
+      }
+
+      a {
+        color: white;
+
+        &:focus, &:hover {
+          color: var(--color-text);
+        }
       }
     }
   }

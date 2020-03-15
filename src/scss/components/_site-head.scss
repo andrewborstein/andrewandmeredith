@@ -1,13 +1,28 @@
 .site-head {
   &__site-name {
-    font-weight: 700;
-    text-decoration: none;
     color: var(--color-text);
-    display: inline-block;
+    display: block;
+    font-weight: 700;
+    line-height: 1.5;
     margin-bottom: get-size(200);
+    text-decoration: none;
     
     @include media-query('md') {
-      margin-bottom: 0 
+      display: inline-block;
+      margin-bottom: 0;
+    }
+  }
+
+  [aria-current='page'] {
+    border-bottom: 1px solid
+  }
+
+  a {    
+    padding-left: .75rem;
+    padding-right: .75rem;
+
+    &:focus, &:hover {
+      background: var(--color-theme-highlight);
     }
   }
 }
