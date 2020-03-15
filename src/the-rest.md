@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: Everything Else
+title: The Rest
 introSummary: Anything we missed? Find it here.
 ---
 ## Extra Events
