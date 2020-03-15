@@ -59,7 +59,7 @@ If you're looking for a little more direction, we'd recommend a "fancy date nigh
 
 We haven't finalized a menu yet... but we promise it will taste good!  We hope that this will be the best food and drinks you have **ever** had at a wedding. Like the type you might have a few times a year on special occasions. 
 
-There should be something for everyone — vegetarians and vegans, meat lovers, seafood fanatics, gluten no-thank-you-ers. And if need be, the wonderfully creative kitchen staff can make you something on the spot. If you're concerned about dietary restrictions, please let us know!  
+There should be something for everyone — vegetarians and vegans, meat lovers, seafood fanatics, gluten no-thank-you-ers. If you're concerned about dietary restrictions, please let us know [when you RSVP](/rsvp)!  
 
 ## Kids
 
