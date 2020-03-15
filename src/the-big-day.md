@@ -53,13 +53,13 @@ If you're driving in, we would recommend using the parking garage nearby. Trying
 
 The ceremony and dinner will not be fully seated, so you will likely be standing more than you would at a typical wedding. It's probably not the right night for your highest stilettos. Wear something fun! 
 
-If you're looking for a little more direction, we'd recommend a "fancy date night" type of outfit. Anything more formal than jeans and less formal than a tuxedo is perfect. Morphsuits are highly encouraged.
+If you're looking for a little more direction, we'd recommend a "fancy date night" type of outfit. Anything more formal than jeans and less formal than a tuxedo is perfect. [Morphsuits](https://photos.app.goo.gl/g9kn5sFx2xW5HPpD7) are highly encouraged.
 
 ### Menu
 
 We haven't finalized a menu yet... but we promise it will taste good!  We hope that this will be the best food and drinks you have **ever** had at a wedding. Like the type you might have a few times a year on special occasions. 
 
-There should be something for everyone — vegetarians and vegans, meat lovers, seafood fanatics, gluten no-thank-you-ers. If you're concerned about dietary restrictions, please let us know [when you RSVP](/rsvp)!  
+There should be something for everyone — vegetarians and vegans, meat lovers, seafood fanatics, gluten no-thank-you-ers. If you're concerned about dietary restrictions, please let us know [when you RSVP](/https://forms.gle/oGE2CyvYXqrC5PDH9)!  
 
 ## Kids
 
