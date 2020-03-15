@@ -28,21 +28,17 @@ h3 {
 }
 
 h1 {
-  font-size: get-size(700);
+  font-size: get-size(800);
 }
 
 h2 {
-  font-size: get-size(600);
-  @include apply-utility('weight', 'regular');
-  letter-spacing: 1px;
-  text-transform: uppercase;
+  font-size: get-size(700);
+  @include apply-utility('weight', 'mid');
 }
 
 h3 {
-  font-size: get-size(500);
-  @include apply-utility('weight', 'regular');
-  letter-spacing: 1px;
-  text-transform: uppercase;
+  font-size: get-size(600);
+  @include apply-utility('weight', 'mid');
 }
 
 @include media-query('md') {
