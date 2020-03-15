@@ -1,3 +1,9 @@
 [build]
   command = "npm run production"
   publish = "dist"
+
+[[redirects]]
+  from = "/rsvp"
+  to = "https://forms.gle/fMJh7uyJA5LWvyvn8"
+  status = 301
+  force = true
