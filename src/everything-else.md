@@ -9,13 +9,13 @@ You're all invited! But we'd love to have an idea of who to expect, so please le
 
 ### Rehearsal Dinner
 
-* When: Friday @ 6:00 PM - 9:00 PM
-* Where: MIT Sailing Pavilion
+* **When**: Friday @ 6:00 PM - 9:00 PM
+* **Where**: MIT Sailing Pavilion
 
 ### Brunch
 
-* When: Sunday @ 9:00 AM - 11:00 AM
-* Where: 3rd Floor Garden Patio @ Le Meriden 
+* **When**: Sunday @ 9:00 AM - 11:00 AM
+* **Where**: 3rd Floor Garden Patio @ Le Meriden
 
 ### Gifts
 
