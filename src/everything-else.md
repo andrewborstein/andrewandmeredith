@@ -3,21 +3,23 @@ layout: layouts/page.njk
 title: Everything Else
 introSummary: Anything we missed? Find it here.
 ---
-## Other Events
+## Extra Events
 
-You're all invited! But we'd love to have an idea of who to expect, so please let us know [when you RSVP](/rsvp).
+The main event is on Saturday, but we'll be celebrating all weekend. And you're all invited! The rehearsal dinner and brunch will both be pretty casual events, but we'd love to have an idea of who to expect — so please let us know [when you RSVP](/rsvp).
 
 ### Rehearsal Dinner
 
-* **When**: Friday @ 6:00 PM - 9:00 PM
-* **Where**: MIT Sailing Pavilion
+* **When**: Friday 7/17/20 @ 6:00 - 9:00 PM
+* **Where**: [MIT Sailing Pavilion](https://goo.gl/maps/18Gd1HS44ThsRVXw6)
+* **What**: Cookout w/ burgers & beers
 
 ### Brunch
 
-* **When**: Sunday @ 9:00 AM - 11:00 AM
-* **Where**: 3rd Floor Garden Patio @ Le Meriden
+* **When**: Sunday 7/19/20 @ 9:00 - 11:00 AM
+* **Where**: 3rd Floor Garden Patio @ [Le Meriden](https://goo.gl/maps/rdZVPF9Lhruc7XRZA)
+* **What**: Brunch w/ omelettes & au revoirs
 
-### Gifts
+## Gifts
 
 Your presence is gift enough! Seriously. 
 
@@ -29,15 +31,7 @@ We made you this handy map! It's got all the major locations related to our wedd
 
 You can also [view the map full-screen](https://www.google.com/maps/d/viewer?mid=1YViXbcdejBdYPMC9Q-rSpbtDueOqHOS2&hl=en&usp=sharing).
 
-### Save the Map to Your Phone (optional)
-
 <figure>
     <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1YViXbcdejBdYPMC9Q-rSpbtDueOqHOS2" width="792" height="446" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
     <figcaption>Custom Google Map - Boston Points of Interest</figcaption>
 </figure>
-
-You can also easily save this to your personal Google account, so you can easily find it while you're logged into the Google Maps app.
-
-![Screenshot demonstrating how to save the custom Google map to your personal Google account](https://andrewandmeredith.com/images/map.png "Save the map to your Google account")
-
-![Screen capture demonstrating how to locate the saved custom Google map in your personal Google account](https://andrewandmeredith.com/images/save-wedding-map-to-google-account.gif "Find the saved map in the Google Maps app")
