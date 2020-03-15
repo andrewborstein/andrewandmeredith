@@ -152,10 +152,10 @@ $stalfos-config: (
   ),
   'weight': (
     'items': (
-      'light': '300',
       'regular': '400',
-      'mid': '600',
-      'bold': '700'
+      'semi': '500',
+      'bold': '700',
+      'black': '800'
     ),
     'output': 'standard',
     'property': 'font-weight'
