@@ -23,9 +23,9 @@ All we want is for you to spend a Saturday night in Boston with us — and come
 
 We made you this handy map! It's got all the major locations related to our wedding weekend, so you can see them all in one place. And we've also added recommendations for local places to eat, attractions to visit, and other things you might want to do while you're in town.
 
-### Save the Map to Your Phone (optional)
-
 You can also [view the map full-screen](https://www.google.com/maps/d/viewer?mid=1YViXbcdejBdYPMC9Q-rSpbtDueOqHOS2&hl=en&usp=sharing).
+
+### Save the Map to Your Phone (optional)
 
 <figure>
     <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1YViXbcdejBdYPMC9Q-rSpbtDueOqHOS2" width="792" height="446" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
