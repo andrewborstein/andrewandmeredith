@@ -3,15 +3,19 @@ layout: layouts/page.njk
 title: Everything Else
 introSummary: Anything we missed? Find it here.
 ---
-## Rehearsal Dinner
-
-Add more content here...
-
 ## Other Events
+
+You're all invited! But we'd love to have an idea of who to expect, so please let us know [when you RSVP](/rsvp).
+
+### Rehearsal Dinner
+
+* When: Friday @ 6:00 PM - 9:00 PM
+* Where: MIT Sailing Pavilion
 
 ### Brunch
 
-Add more content here...
+* When: Sunday @ 9:00 AM - 11:00 AM
+* Where: 3rd Floor Garden Patio @ Le Meriden 
 
 ### Gifts
 
