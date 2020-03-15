@@ -30,7 +30,8 @@
       @include apply-utility('leading', 'tight');
     }
 
-    a:not([class]):hover {
+    a:not([class]):focus, a:not([class]):hover {
+      outline: currentColor auto 1px;
       text-decoration: underline;
     }
 
