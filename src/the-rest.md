@@ -5,7 +5,7 @@ introSummary: Anything we missed? Find it here.
 ---
 ## Extra Events
 
-The main event is on Saturday, but we'll be celebrating all weekend. And you're all invited! The rehearsal dinner and brunch will both be pretty casual events, but we'd love to have an idea of who to expect — so please let us know [when you RSVP](/rsvp).
+The main event is on Saturday, but we'll be celebrating all weekend. And you're all invited! The rehearsal dinner and brunch will both be pretty casual events, but we'd love to have an idea of who to expect — so please let us know [when you RSVP](https://forms.gle/oGE2CyvYXqrC5PDH9).
 
 ### Rehearsal Dinner
 
