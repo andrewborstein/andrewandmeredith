@@ -3,18 +3,6 @@
   text-transform: uppercase;
 
   &__list {
-    // overflow-x: auto;
-    // -webkit-overflow-scrolling: touch;
-    // -ms-overflow-style: none;
-
-    // &::-webkit-scrollbar {
-    //   display: none;
-    // }
-
-    // > * + * {
-    //   margin-left: get-size(500);
-    // }
-
     flex-wrap: wrap;
   }
 
