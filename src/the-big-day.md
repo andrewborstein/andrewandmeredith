@@ -45,7 +45,7 @@ The Marriott in Kendall Square and Le Meridian in Central Square are both 10-15 
 
 If you end up at The Charles Hotel you'll be walking distance, only about 2 blocks away.
 
-If you're driving in, we would recommend using the parking garage nearby. Trying to find street parking in Boston will be basically impossible, but there are tons of other parking garages around Boston if you want to look elsewhere. 
+If you're driving in, we would recommend using the parking garage nearby. Trying to find street parking in Boston will be basically impossible, but there are tons of other parking garages around Boston if you want to look elsewhere. Let us know [when you rsvp](https://forms.gle/oGE2CyvYXqrC5PDH9) and we'll be happy to snag you a free parking pass for the evening.
 
 ## The Vibe
 
