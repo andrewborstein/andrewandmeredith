@@ -1,7 +1,9 @@
 ---
 layout: layouts/page.njk
 title: Plan Your Trip
-introSummary: 'You need a plan, Stan!'
+introSummary: >-
+  You need a plan, Stan! We can help, including all the deets about our where to
+  stay and how to get here.
 ---
 ## Where to Stay
 
