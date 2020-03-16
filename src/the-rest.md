@@ -1,23 +1,25 @@
 ---
 layout: layouts/page.njk
 title: The Rest
-introSummary: Anything we missed? Find it here.
+introSummary: >-
+  Anything we missed? Find it here, including ideas about how to spend the rest
+  of your time while you're in Boston.
 ---
 ## Extra Events
 
-The main event is on Saturday, but we'll be celebrating all weekend. And you're all invited! The rehearsal dinner and brunch will both be pretty casual events, but we'd love to have an idea of who to expect — so please let us know [when you RSVP](https://forms.gle/oGE2CyvYXqrC5PDH9).
+The main event is on Saturday, but we'll be celebrating all weekend — and you're _all_ invited! The rehearsal dinner and brunch will both be fairly casual events (non-seated, come and go as you want). We'd love to have an idea of who to expect, so please let us know [when you RSVP](https://forms.gle/oGE2CyvYXqrC5PDH9).
 
 ### Rehearsal Dinner
 
 * **When**: Friday 7/17/20 @ 6:00 - 9:00 PM
 * **Where**: [MIT Sailing Pavilion](https://goo.gl/maps/18Gd1HS44ThsRVXw6)
-* **What**: Cookout w/ burgers & beers
+* **What**: Enjoy a summer cookout w/ burgers & beers on a beautiful dock-side deck overlooking the sunset on The Charles River.
 
 ### Brunch
 
 * **When**: Sunday 7/19/20 @ 9:00 - 11:00 AM
 * **Where**: 3rd Floor Garden Patio @ [Le Meriden](https://goo.gl/maps/rdZVPF9Lhruc7XRZA)
-* **What**: Brunch w/ omelettes & au revoirs
+* **What**: Stop by any time for some brunch where you can grab an omelette & say "Au revoir" before heading out.
 
 ## Gifts
 
