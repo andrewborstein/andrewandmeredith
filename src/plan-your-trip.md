@@ -9,13 +9,13 @@ introSummary: >-
 
 The main event is on Saturday, but we'll be celebrating all weekend — and you're *all* invited! The rehearsal dinner and brunch will both be fairly casual events (non-seated, come and go as you want). We'd love to have an idea of who to expect, so please let us know [when you RSVP](https://forms.gle/oGE2CyvYXqrC5PDH9).
 
-### Rehearsal Dinner
+### Friday Dinner
 
 * **When**: Friday 7/17/20 @ 6:00 - 9:00 PM
 * **Where**: [MIT Sailing Pavilion](https://goo.gl/maps/18Gd1HS44ThsRVXw6)
 * **What**: Enjoy a summer cookout w/ burgers & beers on a beautiful dock-side deck overlooking the sunset on The Charles River.
 
-### Brunch
+### Sunday Brunch
 
 * **When**: Sunday 7/19/20 @ 9:00 - 11:00 AM
 * **Where**: 3rd Floor Garden Patio @ [Le Meriden](https://goo.gl/maps/rdZVPF9Lhruc7XRZA)
