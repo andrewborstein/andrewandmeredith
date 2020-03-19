@@ -2,9 +2,25 @@
 layout: layouts/page.njk
 title: Plan Your Trip
 introSummary: >-
-  You need a plan, Stan! We can help, including all the deets about our where to
-  stay and how to get here.
+  You need a plan, Stan! We can help. View all the deets about our the rest of
+  the wedding weekend, where to stay, and how to get here.
 ---
+## Extra Events
+
+The main event is on Saturday, but we'll be celebrating all weekend — and you're *all* invited! The rehearsal dinner and brunch will both be fairly casual events (non-seated, come and go as you want). We'd love to have an idea of who to expect, so please let us know [when you RSVP](https://forms.gle/oGE2CyvYXqrC5PDH9).
+
+### Rehearsal Dinner
+
+* **When**: Friday 7/17/20 @ 6:00 - 9:00 PM
+* **Where**: [MIT Sailing Pavilion](https://goo.gl/maps/18Gd1HS44ThsRVXw6)
+* **What**: Enjoy a summer cookout w/ burgers & beers on a beautiful dock-side deck overlooking the sunset on The Charles River.
+
+### Brunch
+
+* **When**: Sunday 7/19/20 @ 9:00 - 11:00 AM
+* **Where**: 3rd Floor Garden Patio @ [Le Meriden](https://goo.gl/maps/rdZVPF9Lhruc7XRZA)
+* **What**: Stop by any time for some brunch where you can grab an omelette & say "Au revoir" before heading out.
+
 ## Where to Stay
 
 ### Hotels
@@ -34,7 +50,9 @@ For our guests' convenience, we have secured 3 different discounted hotel option
 
 ### Airbnb
 
-There are lots of options nearby! Our favorite squares (aka neighborhoods in Boston-speak) are Inman, Union, Davis, Central, Kendall, and Harvard. If you want to venture a little further, Beacon Hill, South Boston, and Brookline are also very nice.
+There are lots of options nearby! Our favorite squares (aka
+
+ neighborhoods in Boston-speak) are Inman, Union, Davis, Central, Kendall, and Harvard. If you want to venture a little further, Beacon Hill, South Boston, and Brookline are also very nice.
 
 ## How to Get Here
 
